@@ -28,3 +28,9 @@ Vendor: 10000
 #### Get Balance
 - Attendee can check how many tokens they have
 - Vender can see how many people have stopped by their booth
+
+## Demo
+
+## Business Rules
+
+- http://13.59.98.146:8080/dashboard
