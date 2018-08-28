@@ -1,0 +1,17 @@
+Initialize tokens
+----------------- 
+Attendee    - 0 
+Vendor      - 10000 
+
+Transactions
+------------
+- Give 
+1. Vendor gives Attendee token 
+2. VMware gives Vendor 10000 tokens at start
+
+- Redeem
+Attendee gets a prize based on how many tokens they have
+
+- Get Balance
+1. Attendee can check how many tokens they have
+2. Vender can see how many people have stopped by their booth
