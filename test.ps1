@@ -1,0 +1,11 @@
+<#
+    Call transfer function to send 1 token 
+    to 0x1111111111111111111111111111111111111111 
+    from 0x1111111111111111111111111111111111111112
+#>
+$json = '{"id":1,"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from":"0x1111111111111111111111111111111111111111","to":"0xe4c050a518d1945c56485c92dc8e885f050d79ee","gas":"0xff","value":null,"data":"0xa9059cbb00000000000000000000000011111111111111111111111111111111111111120000000000000000000000000000000000000000000000000000000000000001"}]}'
+Invoke-WebRequest `
+    -Method Post `
+    -Uri 'http://13.59.98.146:8080/api/athena/eth' `
+    -Body $json `
+    -ContentType "application/json"
