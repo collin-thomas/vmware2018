@@ -1,5 +1,16 @@
 # VMworld 2018 Hackathon
 
+# Blockchain hackathon - Team Blockchain
+
+# Solution: vSwag
+
+Concept: 
+- Use Blockchain for rewards management during conference.
+- Vendors will contribute vSwag tokens to be redeemed for goods.
+- Conference attendees can collect vSwag tokens from Vendors by participating marketing events and sales campaigns.
+- Attendees can redeem vSwag tokens in VMware store or Vendor booth for swag items.
+
+
 ## Business Rules
 
 ### Initialize tokens
