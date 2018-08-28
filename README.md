@@ -1,8 +1,8 @@
 # VMworld 2018 Hackathon
 
-# Blockchain hackathon - Team Blockchain
+## Blockchain hackathon - Team Blockchain
 
-# Solution: vSwag
+## Solution: vSwag
 
 Concept: 
 - Use Blockchain for rewards management during conference.
