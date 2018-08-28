@@ -32,3 +32,6 @@ Vendor: 10000
 ## vSwag Demo
 
 - http://13.59.98.146:8080/dashboard
+
+<Reference>
+  VMworld Backpack Reveal Remix https://blogs.vmware.com/vmworld/2018/08/vmworld-backpack-reveal-remix.html
